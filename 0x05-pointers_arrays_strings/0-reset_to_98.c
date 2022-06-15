@@ -1,5 +1,5 @@
 #include "main.h"
-include<sdtio.h>
+#include<sdtio.h>
 
 /**
  * reset_to_98 - resets value of pointer to 98
